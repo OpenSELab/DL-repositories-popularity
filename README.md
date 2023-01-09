@@ -1592,16 +1592,4 @@
   <td class="xl65" align="right" style="border-top:none;border-left:none">0.8187</td>
   <td class="xl65" align="right" style="border-top:none;border-left:none">0.4332</td>
  </tr>
- <!--[if supportMisalignedColumns]-->
- <tr height="0" style="display:none">
-  <td width="129" style="width:97pt"></td>
-  <td width="160" style="width:120pt"></td>
-  <td width="107" style="width:80pt"></td>
-  <td width="72" style="width:54pt"></td>
-  <td width="72" style="width:54pt"></td>
-  <td width="72" style="width:54pt"></td>
-  <td width="72" style="width:54pt"></td>
-  <td width="72" style="width:54pt"></td>
- </tr>
- <!--[endif]-->
 </tbody></table>
