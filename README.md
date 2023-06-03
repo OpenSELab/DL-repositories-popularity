@@ -1,6 +1,10 @@
-# DL-repositories-popularity
+# Exploring the Characteristics of Popular Deep Learning GitHub Repositories
+This repository is the accompanying repository for our paper "Exploring the Characteristics of Popular Deep Learning GitHub Repositories".
 
-## RQ2
+
+## Spearman correlation coefficient between features and popularity
+In Research Question 2 (RQ2) of our paper, we conduct an analysis on the correlation between our proposed features and the popularity of Deep Learning (DL) repositories using Spearman's correlation coefficient. In our paper, we present the Rho values visually through images; however, in this context, we provide the complete results.
+
 <table border="0" cellpadding="0" cellspacing="0" width="756" style="border-collapse:
  collapse;table-layout:fixed;width:567pt">
  <colgroup><col class="xl70" width="129" style="mso-width-source:userset;mso-width-alt:4128;
