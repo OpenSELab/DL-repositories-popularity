@@ -3,6 +3,7 @@ This repository is the accompanying repository for our paper "Exploring the Char
 
 ## Data
 In the `data` directory, we provide the popular an unpopular Deep Learning (DL) repositories studied in our paper. 
+Furthermore, int the `data/model_train` directory, we provide the training data for the classifiers in Research Question 3 (RQ3), along with the outcomes obtained from diverse classifiers for two tasks: predicting the popularity status of Deep Learning (DL) repositories and forecasting the cumulative star patterns of DL repositories.
 
 ## Spearman correlation coefficient between features and popularity
 In Research Question 2 (RQ2) of our paper, we conduct an analysis on the correlation between our proposed features and the popularity of DL repositories using Spearman's correlation coefficient. In our paper, we present the Rho values visually through images; however, in this context, we provide the complete results.
